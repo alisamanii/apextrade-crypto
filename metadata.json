@@ -1,0 +1,6 @@
+{
+  "name": "ApexTrade Crypto",
+  "description": "Ultra-professional Crypto Exchange & Trading Application inspired by MT5, Binance, and Bybit with live candlestick charts, real-time order books, leverage terminal, and wallet analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
